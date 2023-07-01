@@ -83,7 +83,7 @@ flask --app main.py run
 Database:
 ```sh
 cd ~/Database
-./pocketbase serve
+./pocketbase serve --http="<DB_URL>:<PORT:NUMBER>"
 ```
 
 ## Roadmap
