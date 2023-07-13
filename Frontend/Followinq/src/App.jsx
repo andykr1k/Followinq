@@ -2,9 +2,9 @@ function App() {
 
   return (
     <>
-      <p className="underline text-3xl">
-        Proves Tailwind Works
-      </p>
+      <h1 className="text-3xl font-bold underline">
+        Hello world!
+      </h1>
     </>
   )
 }
