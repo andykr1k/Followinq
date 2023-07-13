@@ -92,7 +92,7 @@ See the [open issues](https://github.com/andykr1k/Followinq/issues) for a list o
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/andykr1k/Followinq/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/andykr1k/Followinq/blob/main/License.md) for more information.
 
 ## Authors
 
